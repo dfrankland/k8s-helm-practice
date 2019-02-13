@@ -1,5 +1,11 @@
 # k8s-helm-practice
 
+This repo was primarily created following the steps outlined by Bitnami's
+article ["How to Create Your First Helm Chart"][bitnami article]. Check the
+commit history for how the steps were followed.
+
+[bitnami article]: https://docs.bitnami.com/kubernetes/how-to/create-your-first-helm-chart/
+
 ## Prerequisites
 
 ### Docker

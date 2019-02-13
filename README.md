@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-### Docker / Kubernetes
+### Docker
 
 *   **MacOS / Windows**: Install Docker for Mac / Windows.
 

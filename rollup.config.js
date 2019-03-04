@@ -7,6 +7,10 @@ export default {
     file: './dist/server.js',
     format: 'cjs',
   },
-  plugins: [babel()],
+  plugins: [
+    babel({
+      extensions: ['.ts'],
+    }),
+  ],
   external: [...Object.keys(dependencies)],
 };

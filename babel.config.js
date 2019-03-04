@@ -7,7 +7,7 @@ module.exports = {
           node: '8',
         },
       },
-      '@babel/preset-typescript',
     ],
+    '@babel/preset-typescript',
   ],
 };
